@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "product_name": "tent",
+    "product_rating": 4,
+    "product_category": "camping",
+    "price": "$120.99",
+    "availability": true,
+    "brand": "kelty",
+    "image": "https://cdn.shopify.com/s/files/1/1582/3711/t/13/assets/product-image-1-clan.jpg?16008"
+  },
+  {
+    "id": 2,
+    "product_name": "stove",
+    "product_rating": 3,
+    "product_category": "camping",
+    "price": "$45.00",
+    "availability": true,
+    "brand": "coleman",
+    "image": "https://www.campchef.com/media/catalog/product/cache/1/image/1200x675/e9c3970ab036de70892d86c6d221abfe/m/s/ms2hpr_1_flames.jpg"
+  },
+  {
+    "id": 3,
+    "product_name": "sleeping bag",
+    "product_rating": 4,
+    "product_category": "$99.00",
+    "price": true,
+    "availability": "bozeman outfitters",
+    "brand": "https://cdn.shopify.com/s/files/1/0652/1613/products/iceland-Warmest-sleeping-bag-down.jpg?v=1426767089",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "product_name": "flashlight",
+    "product_rating": "camping",
+    "product_category": 3,
+    "price": "$12.99",
+    "availability": true,
+    "brand": "coleman",
+    "image": "http://cdn.shopify.com/s/files/1/1437/9632/products/aatitaniumrev4_grande.jpg?v=1523403523"
+  },
+  {
+    "id": 5,
+    "product_name": "headlamp",
+    "product_rating": "camping",
+    "product_category": 3.5,
+    "price": "$21.95",
+    "availability": true,
+    "brand": "petzl",
+    "image": "https://www.fenixlighting.com/wp-content/uploads/2017/05/HP30R-headlamp.jpg"
+  },
+  {
+    "id": 6,
+    "product_name": "snow boots",
+    "product_rating": "skiiing",
+    "product_category": 4,
+    "price": "$229.99",
+    "availability": true,
+    "brand": "faziani",
+    "image": "https://pixel.nymag.com/imgs/daily/strategist/2018/01/04/04-snow-boots-ode.w600.h315.2x.jpg"
+  },
+  {
+    "id": 7,
+    "product_name": "board shorts",
+    "product_rating": "swimming",
+    "product_category": 2.8,
+    "price": "$14.99",
+    "availability": false,
+    "brand": "hobie",
+    "image": "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dwe2d7532a/product_images/0150024400115NEW_00_060.jpg?sw=458&sh=710&sm=fit"
+  },
+  {
+    "id": 8,
+    "product_name": "solar phone recharger",
+    "product_rating": "electronics",
+    "product_category": 3.8,
+    "price": "$150.00",
+    "availability": true,
+    "brand": "solar experts",
+    "image": "http://cdn.shopify.com/s/files/1/1106/9344/products/solar_monkey_solar_charger-1_grande.jpg?v=1451333851"
+  },
+  {
+    "id": 9,
+    "product_name": "dutch oven",
+    "product_rating": "camping",
+    "product_category": 2.3,
+    "price": "$19.99",
+    "availability": true,
+    "brand": "ironworks ltd",
+    "image": "https://www.rei.com/media/product/100411"
+  },
+  {
+    "id": 10,
+    "product_name": "ball hitch",
+    "product_rating": "automotive",
+    "product_category": "",
+    "price": "$14.00",
+    "availability": true,
+    "brand": "u-haul",
+    "image": "https://images.customwheeloffset.com/buy2/web/278-1-hitches-bad-ass-hitches-17ton-ball-hitch-mount-galvanized.jpg"
+  }
+]

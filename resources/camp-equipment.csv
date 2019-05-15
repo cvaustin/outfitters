@@ -1,0 +1,11 @@
+id,product_name,product_rating,product_category,price,availability,brand,image
+1,tent,4,camping,$120.99,true,kelty,https://cdn.shopify.com/s/files/1/1582/3711/t/13/assets/product-image-1-clan.jpg?16008
+2,stove,3,camping,$45.00,true,coleman,https://www.campchef.com/media/catalog/product/cache/1/image/1200x675/e9c3970ab036de70892d86c6d221abfe/m/s/ms2hpr_1_flames.jpg
+3,sleeping bag,4,$99.00,true,bozeman outfitters,https://cdn.shopify.com/s/files/1/0652/1613/products/iceland-Warmest-sleeping-bag-down.jpg?v=1426767089
+4,flashlight,camping,3,$12.99,true,coleman,http://cdn.shopify.com/s/files/1/1437/9632/products/aatitaniumrev4_grande.jpg?v=1523403523
+5,headlamp,camping,3.5,$21.95,true,petzl,https://www.fenixlighting.com/wp-content/uploads/2017/05/HP30R-headlamp.jpg
+6,snow boots,skiiing, 4,$229.99,true,faziani,https://pixel.nymag.com/imgs/daily/strategist/2018/01/04/04-snow-boots-ode.w600.h315.2x.jpg
+7,board shorts,swimming,2.8,$14.99,false,hobie,https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dwe2d7532a/product_images/0150024400115NEW_00_060.jpg?sw=458&sh=710&sm=fit
+8,solar phone recharger, electronics,3.8,$150.00,true,solar experts,http://cdn.shopify.com/s/files/1/1106/9344/products/solar_monkey_solar_charger-1_grande.jpg?v=1451333851
+9,dutch oven,camping,2.3,$19.99,true, ironworks ltd,https://www.rei.com/media/product/100411
+10, ball hitch, automotive,,$14.00,true,u-haul,https://images.customwheeloffset.com/buy2/web/278-1-hitches-bad-ass-hitches-17ton-ball-hitch-mount-galvanized.jpg
